@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				22,
+				-130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Bamb Idle"
+		},
+		{
+			"offsets": [
+				237,
+				-146
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Bamb Left"
+		},
+		{
+			"offsets": [
+				-148,
+				-202
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Bamb Right"
+		},
+		{
+			"offsets": [
+				22,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Bamb Up"
+		},
+		{
+			"offsets": [
+				18,
+				-310
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Bamb Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bamb",
+	"position": [
+		-150,
+		100
+	],
+	"healthicon": "bamb",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		20,
+		20
+	],
+	"camera_position": [
+		-70,
+		280
+	],
+	"sing_duration": 4,
+	"scale": 0.799999999999999
+}

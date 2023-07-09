@@ -1,0 +1,39 @@
+{
+	"storyName": "bonus",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week4",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Flip-Phone",
+			"linbi",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Eastern Communism",
+			"Chombi",
+			[
+				195,
+				20,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "coolshit"
+}

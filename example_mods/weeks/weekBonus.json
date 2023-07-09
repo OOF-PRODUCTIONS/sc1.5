@@ -1,0 +1,138 @@
+{
+	"storyName": "bonus",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week4",
+	"startUnlocked": false,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Ornery",
+			"nampi",
+			[
+				200,
+				215,
+				0
+			]
+		],
+		[
+			"Golden",
+			"benson",
+			[
+				240,
+				255,
+				0
+			]
+		],
+		[
+			"Potent",
+			"potent",
+			[
+				130,
+				130,
+				130
+			]
+		],
+		[
+			"Obscure",
+			"samber",
+			[
+				206,
+				173,
+				0
+			]
+		],
+		[
+			"Cheeting",
+			"samber",
+			[
+				206,
+				173,
+				0
+			]
+		],
+		[
+			"Delirium",
+			"impossible",
+			[
+				0,
+				20,
+				40
+			]
+		],
+		[
+			"Ether",
+			"bamb",
+			[
+				0,
+				0,
+				20
+			]
+		],
+		[
+			"Opposition But Awesome",
+			"god",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Metaphysical",
+			"meta",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Family Bonding",
+			"bumbo",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"Idot",
+			"idiot",
+			[
+				255,
+				0,
+				255
+			]
+		],
+		[
+			"mati spits a fact",
+			"descarga",
+			[
+				195,
+				195,
+				175
+			]
+		],
+		[
+			"Automation",
+			"bumbo",
+			[
+				0,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "coolshit"
+}

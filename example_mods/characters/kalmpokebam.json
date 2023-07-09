@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-14,
+				-159
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "dOWN"
+		},
+		{
+			"offsets": [
+				119,
+				-65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				42,
+				35
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-64,
+				-103
+			],
+			"loop": false,
+			"fps": 34,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				10,
+				-30
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Kalmpokebam",
+	"position": [
+		20,
+		20
+	],
+	"healthicon": "garcello",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		255,
+		235
+	],
+	"camera_position": [
+		-80,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

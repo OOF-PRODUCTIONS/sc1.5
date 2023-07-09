@@ -1,0 +1,30 @@
+{
+	"storyName": "???",
+	"hideFreeplay": true,
+	"weekBackground": "him",
+	"weekBefore": "week4",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"songs": [
+		[
+			"Hellbreaker",
+			"hellbreaker",
+			[
+				40,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "hell"
+}

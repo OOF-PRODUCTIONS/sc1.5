@@ -1,0 +1,43 @@
+{
+	"storyName": "the farm...",
+	"hideFreeplay": false,
+	"weekBackground": "pissy",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Apathetic",
+			"pissyboy",
+			[
+				0,
+				255,
+				0
+			]
+		],
+		[
+			"Screwed",
+			"pissyboy",
+			[
+				0,
+				215,
+				0
+			]
+		],
+		[
+			"Overthink",
+			"overthink",
+			[
+				0,
+				175,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Burning Farm"
+}
